@@ -1,52 +1,52 @@
 [
-    {
-        "title": "Anna Karenina",
-        "author": "Leo Tolstoy",
-        "year": 1877
-    },
-    {
-        "title": "Madame Bovary",
-        "author": "Gustave Flaubert",
-        "year": 1856
-    },
-    {
-        "title": "War and Peace",
-        "author": "Leo Tolstoy",
-        "year": 
-    },
-    {
-        "title": "",
-        "author": "",
-        "year": 
-    },
-    {
-        "title": "",
-        "author": "",
-        "year": 
-    },
-    {
-        "title": "",
-        "author": "",
-        "year": 
-    },
-    {
-        "title": "",
-        "author": "",
-        "year": 
-    },
-    {
-        "title": "",
-        "author": "",
-        "year": 
-    },
-    {
-        "title": "",
-        "author": "",
-        "year": 
-    },
-    {
-        "title": "",
-        "author": "",
-        "year": 
-    },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "year": 1877
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "year": 1856
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "year": 1867
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925
+  },
+  {
+    "title": "Lolita",
+    "author": "Vladimir Nabokov",
+    "year": 1955
+  },
+  {
+    "title": "Middlemarch",
+    "author": "George Eliot",
+    "year": 1871
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "year": 1884
+  },
+  {
+    "title": "The Stories of Anton Chekhov",
+    "author": "Anton Chekhov",
+    "year": 1888
+  },
+  {
+    "title": "In Search of Lost Time",
+    "author": "Anton Chekhov",
+    "year": 1913
+  },
+  {
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "year": "between 1599 and 1601"
+  }
 ]
